@@ -1,2 +1,2 @@
 #!/bin/bash
-sdksdhsdk
+echo $((2#$BINARY))
