@@ -1,2 +1,2 @@
 #!/bin/bash
-jsgdj
+echo $(($TRUEKNOWLEDGE + 128))
